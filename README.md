@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0077-combinations/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
