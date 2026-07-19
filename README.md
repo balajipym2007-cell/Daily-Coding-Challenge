@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 ## Bit Manipulation
