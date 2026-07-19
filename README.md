@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
