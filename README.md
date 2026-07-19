@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,10 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +67,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0041-first-missing-positive/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
