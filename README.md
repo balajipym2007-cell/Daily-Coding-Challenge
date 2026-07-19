@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
