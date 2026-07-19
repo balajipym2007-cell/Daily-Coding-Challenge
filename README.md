@@ -42,12 +42,14 @@
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
