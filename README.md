@@ -30,4 +30,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
