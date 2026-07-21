@@ -17,6 +17,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -94,6 +97,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
