@@ -16,6 +16,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -85,6 +86,7 @@
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Bit Manipulation
