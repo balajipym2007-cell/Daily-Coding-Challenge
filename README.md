@@ -16,6 +16,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -111,6 +112,7 @@
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
