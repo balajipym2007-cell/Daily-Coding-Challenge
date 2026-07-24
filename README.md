@@ -64,6 +64,7 @@
 | [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -102,6 +104,7 @@
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
