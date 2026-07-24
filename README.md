@@ -63,6 +63,7 @@
 | [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Monotonic Stack
