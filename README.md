@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
 ## Linked List
@@ -67,6 +68,7 @@
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
