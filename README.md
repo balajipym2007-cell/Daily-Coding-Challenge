@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
@@ -116,6 +117,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
