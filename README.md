@@ -128,6 +128,7 @@
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
