@@ -116,6 +116,7 @@
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
