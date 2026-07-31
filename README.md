@@ -110,6 +110,7 @@
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
