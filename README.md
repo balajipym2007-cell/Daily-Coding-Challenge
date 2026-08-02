@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -140,6 +141,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
@@ -196,4 +198,8 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0191-number-of-1-bits/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
