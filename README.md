@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -141,6 +142,7 @@
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
