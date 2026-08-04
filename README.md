@@ -83,6 +83,7 @@
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0709-to-lower-case](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
@@ -167,6 +168,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
