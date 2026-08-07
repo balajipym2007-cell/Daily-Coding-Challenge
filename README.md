@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
@@ -168,6 +170,7 @@
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -225,4 +228,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
