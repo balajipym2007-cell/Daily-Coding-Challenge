@@ -86,6 +86,7 @@
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
@@ -171,6 +172,7 @@
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1323-maximum-69-number/) | Easy |
