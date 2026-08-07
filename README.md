@@ -23,6 +23,7 @@
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
