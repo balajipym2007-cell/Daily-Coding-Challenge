@@ -76,11 +76,13 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## String
