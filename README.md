@@ -31,6 +31,7 @@
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
