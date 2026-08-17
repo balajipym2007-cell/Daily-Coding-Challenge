@@ -99,6 +99,7 @@
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -141,6 +142,7 @@
 | [0263-ugly-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
