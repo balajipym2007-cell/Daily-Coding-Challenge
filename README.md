@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -117,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
