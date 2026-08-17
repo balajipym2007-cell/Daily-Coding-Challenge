@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
@@ -222,6 +223,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
@@ -278,6 +280,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
