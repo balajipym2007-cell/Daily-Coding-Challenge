@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
@@ -61,6 +62,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
@@ -212,6 +214,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
