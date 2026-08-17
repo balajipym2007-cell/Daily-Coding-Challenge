@@ -113,6 +113,7 @@
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -137,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
@@ -294,4 +296,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
