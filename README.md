@@ -29,6 +29,7 @@
 | [0228-summary-ranges](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -54,6 +55,7 @@
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 ## Design
@@ -120,6 +122,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -305,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
