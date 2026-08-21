@@ -91,6 +91,7 @@
 | [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | [0263-ugly-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0292-nim-game/) | Easy |
+| [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
@@ -181,6 +183,7 @@
 | [0191-number-of-1-bits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
