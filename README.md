@@ -64,6 +64,7 @@
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0441-arranging-coins](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@
 | [0292-nim-game](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0441-arranging-coins](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
