@@ -48,6 +48,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -247,6 +248,7 @@
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
