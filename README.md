@@ -119,6 +119,7 @@
 | [0657-robot-return-to-origin](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -362,4 +363,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
