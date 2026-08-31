@@ -43,6 +43,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
