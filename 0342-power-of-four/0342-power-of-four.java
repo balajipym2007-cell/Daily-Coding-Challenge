@@ -3,6 +3,11 @@ class Solution {
         if (n <= 0) {
             return false;
         }
-        return Math.log(n) / Math.log(4) % 1 == 0;        
+
+        while (n % 4 == 0) {
+            n = n / 4;
+        }
+
+        return n == 1;
     }
 }
