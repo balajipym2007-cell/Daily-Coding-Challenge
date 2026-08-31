@@ -160,6 +160,7 @@
 | [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
