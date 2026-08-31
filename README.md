@@ -145,6 +145,7 @@
 | [0078-subsets](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
+| [0401-binary-watch](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
