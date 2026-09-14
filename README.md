@@ -34,6 +34,7 @@
 | [0303-range-sum-query-immutable](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
+| [0495-teemo-attacking](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
