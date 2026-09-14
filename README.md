@@ -85,6 +85,7 @@
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1929-concatenation-of-array/) | Easy |
@@ -138,6 +139,7 @@
 | [0796-rotate-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
@@ -164,6 +166,7 @@
 | [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0394-decode-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
