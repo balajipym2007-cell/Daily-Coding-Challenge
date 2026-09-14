@@ -47,6 +47,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -233,6 +234,7 @@
 | [0804-unique-morse-code-words](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +340,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
