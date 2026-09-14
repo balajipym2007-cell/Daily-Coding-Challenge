@@ -285,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -317,10 +318,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -380,4 +383,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0796-rotate-string/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
