@@ -95,6 +95,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | [0060-permutation-sequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -149,6 +151,7 @@
 | [0032-longest-valid-parentheses](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
