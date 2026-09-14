@@ -39,6 +39,7 @@
 | [0804-unique-morse-code-words](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+| [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
@@ -206,6 +208,7 @@
 | [0401-binary-watch](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -238,6 +241,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -256,6 +260,7 @@
 | [0073-set-matrix-zeroes](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
