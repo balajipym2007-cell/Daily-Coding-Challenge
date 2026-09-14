@@ -54,6 +54,7 @@
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1929-concatenation-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -84,6 +85,7 @@
 | [0832-flipping-an-image](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1603-design-parking-system/) | Easy |
+| [1929-concatenation-of-array](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
