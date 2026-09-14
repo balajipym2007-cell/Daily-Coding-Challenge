@@ -285,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0079-word-search/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Prefix Sum
@@ -318,11 +319,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Counting Sort
@@ -387,4 +390,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0617-merge-two-binary-trees](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0617-merge-two-binary-trees/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
