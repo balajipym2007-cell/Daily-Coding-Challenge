@@ -110,6 +110,7 @@
 | [0231-power-of-two](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
@@ -125,6 +126,7 @@
 | [0290-word-pattern](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0394-decode-string/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -158,6 +160,7 @@
 | [0042-trapping-rain-water](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0394-decode-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
