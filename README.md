@@ -58,6 +58,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [0234-palindrome-linked-list](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +412,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
