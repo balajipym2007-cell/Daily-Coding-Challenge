@@ -33,6 +33,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balajipym2007-cell/Daily-Coding-Challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
